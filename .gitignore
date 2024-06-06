@@ -1,3 +1,15 @@
+#cs+
+*.mtud
+*.rcpe
+*mtud
+*.bak
+SmartManual Docs/
+DepFilesTmp/
+DepFilesTemp/
+DepFilesTemp/
+!/.DefaultBuild/*.mot
+
+
 # Prerequisites
 *.d
 
